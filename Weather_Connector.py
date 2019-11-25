@@ -2,6 +2,7 @@ import requests
 import os
 
 
+# class to build weather api connector
 class Weather(object):
 
     def __init__(self):
